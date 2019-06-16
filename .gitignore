@@ -1,5 +1,5 @@
 Binaries
-Content/Static/**
+Content/Static/*
 DerivedDataCache
 Intermediate
 Saved
@@ -13,4 +13,3 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
-*.umap
